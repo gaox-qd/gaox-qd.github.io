@@ -16,8 +16,8 @@ b.	非绝热混合量子/经典动力学: 投影哈密顿量，势能面跳跃�
 II: 程序开发：
 
 a.	DFTB+非绝热电子激发态动力学及输运  
-b.	自旋轨道耦合计算[PySOC] (https://github.com/jzpathfinder/pysoc)  
-c.	Non-Markovian张量网络算法[TNStochastic](https://github.com/jzpathfinder/TNStochastic.jl)  
+b.	自旋轨道耦合计算[PySOC](https://github.com/jzpathfinder/pysoc)  
+c.	Non-Markovian张量网络算法[TNStochastic.jl](https://github.com/jzpathfinder/TNStochastic.jl)  
 
 III: 应用体系：
 
