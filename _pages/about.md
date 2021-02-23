@@ -22,15 +22,15 @@ a. 复杂有机光电材料和生物光合作用系统中的能量、电荷等�
 b. 二维光谱模拟  
   
 
-I:  quantum simulation of dynamics in complex systems：  
+I:  Quantum simulation of dynamics in complex systems：  
 a.	Open quantum system dynamics：non-Markovian stochastic quantum state diffusion  
-b.	Non-adiabatic dynamics: mapping Hamiltonian，surface hopping and mean field/Ehrenfest  
+b.	Non-adiabatic dynamics: mapping Hamiltonian, surface hopping and mean field/Ehrenfest  
 
-II: code development：  
-a.	DFTB+/Surface hopping/Ehrenfest/excited state dynamics/charge transport  
-b.	Evaluation of spin-orbit coupling+TDDFT(B)/Python/Gaussion[PySOC](https://github.com/jzpathfinder/pysoc)  
+II: Code development：  
+a.	DFTB+/surface hopping/Ehrenfest/excited state dynamics/charge transport  
+b.	Evaluation of spin-orbit coupling+TDDFT(B)/Python/Gaussian[PySOC](https://github.com/jzpathfinder/pysoc)  
 c.	Non-Markovian TNS algorithm[TNStochastic.jl](https://github.com/jzpathfinder/TNStochastic.jl)  
 
-III: applications：  
-a. charge/energy transport/organic electronics/photosynthesis system  
-b. ultrafast spectroscopy  
+III: Applications：  
+a. Charge/energy transport/organic electronics/photosynthesis system  
+b. Ultrafast spectroscopy  
