@@ -22,7 +22,7 @@ a. 复杂有机光电材料和生物光合作用系统中的能量、电荷等�
 b. 二维光谱模拟  
   
 
-I:  quantum simulation of dynamics in complex systems)：  
+I:  quantum simulation of dynamics in complex systems：  
 a.	Open quantum system dynamics：non-Markovian stochastic quantum state diffusion  
 b.	Non-adiabatic dynamics: Mapping Hamiltonian，Surface hopping，and Mean field/Ehrenfest  
 
