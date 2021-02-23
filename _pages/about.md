@@ -26,11 +26,11 @@ I:  quantum simulation of dynamics in complex systems：
 a.	Open quantum system dynamics：non-Markovian stochastic quantum state diffusion  
 b.	Non-adiabatic dynamics: Mapping Hamiltonian，Surface hopping，and Mean field/Ehrenfest  
 
-II: code development：
+II: code development：  
 a.	DFTB+/Surface hopping/Ehrenfest/excited state dynamics/charge transport  
 b.	Evaluation of spin-orbit coupling+TDDFT(B)/Python/Gaussion[PySOC](https://github.com/jzpathfinder/pysoc)  
 c.	Non-Markovian TNS algorithm[TNStochastic.jl](https://github.com/jzpathfinder/TNStochastic.jl)  
 
-III: applications：
+III: applications：  
 a. charge/energy transport/Organic electronics/photosynthesis system  
 b. ultrafast spectroscopy  
