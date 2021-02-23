@@ -24,7 +24,7 @@ b. 二维光谱模拟
 
 I:  quantum simulation of dynamics in complex systems：  
 a.	Open quantum system dynamics：non-Markovian stochastic quantum state diffusion  
-b.	Non-adiabatic dynamics: Mapping Hamiltonian，Surface hopping，and Mean field/Ehrenfest  
+b.	Non-adiabatic dynamics: mapping Hamiltonian，surface hopping and mean field/Ehrenfest  
 
 II: code development：  
 a.	DFTB+/Surface hopping/Ehrenfest/excited state dynamics/charge transport  
