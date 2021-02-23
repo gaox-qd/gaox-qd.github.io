@@ -32,5 +32,5 @@ b.	Evaluation of spin-orbit coupling+TDDFT(B)/Python/Gaussion[PySOC](https://git
 c.	Non-Markovian TNS algorithm[TNStochastic.jl](https://github.com/jzpathfinder/TNStochastic.jl)  
 
 III: applications：  
-a. charge/energy transport/Organic electronics/photosynthesis system  
+a. charge/energy transport/organic electronics/photosynthesis system  
 b. ultrafast spectroscopy  
